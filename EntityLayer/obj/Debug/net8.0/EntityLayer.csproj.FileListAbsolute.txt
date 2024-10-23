@@ -23,3 +23,4 @@ C:\Proyectos\LesleyCaicedoVMT\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
 C:\Proyectos\LesleyCaicedoVMT\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
 C:\Proyectos\LesleyCaicedoVMT\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
 C:\Proyectos\LesleyCaicedoVMT\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
+C:\APIs\LesleyCaicedoVMT\EntityLayer\obj\Debug\net8.0\EntityLayer.sourcelink.json

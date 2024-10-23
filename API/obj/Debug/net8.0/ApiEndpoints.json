@@ -1,6 +1,54 @@
 [
   {
     "ContainingType": "API.Controllers.PController",
+    "Method": "autentificacion",
+    "RelativePath": "api/P/autentificacion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "EntityLayer.DTO.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.PController",
+    "Method": "IngresarProductos",
+    "RelativePath": "api/P/IngresarProductos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productoDTO",
+        "Type": "EntityLayer.DTO.ProductoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.PController",
+    "Method": "RegistroCategoria",
+    "RelativePath": "api/P/RegistroCategoria",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoriaDTO",
+        "Type": "EntityLayer.DTO.CategoriaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.PController",
     "Method": "RegistroUsuario",
     "RelativePath": "api/P/RegistroUsuario",
     "HttpMethod": "POST",
@@ -13,16 +61,6 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "EntityLayer.Responses.Response",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   }
 ]

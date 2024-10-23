@@ -11,5 +11,7 @@ namespace DataLayer.Repository
     public interface IRegistroRepository
     {
         public Task<Response> RegistroUsuario(UsuarioDTO usuarioDTO);
+        public Task<Response> RegistroCategoria(CategoriaDTO categoriaDTO);
+        public Task<Response> IngresarProductos(ProductoDTO productoDTO);
     }
 }

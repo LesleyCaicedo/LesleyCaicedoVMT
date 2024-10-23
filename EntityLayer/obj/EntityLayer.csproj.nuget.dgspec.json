@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\EntityLayer.csproj": {}
+    "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\EntityLayer.csproj",
-        "packagesPath": "C:\\Users\\caice\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\obj\\",
+        "projectPath": "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\viamatica\\.nuget\\packages\\",
+        "outputPath": "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\caice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\viamatica\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

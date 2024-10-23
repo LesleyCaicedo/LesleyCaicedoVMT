@@ -297,3 +297,4 @@ C:\Proyectos\LesleyCaicedoVMT\API\obj\Debug\net8.0\refint\API.dll
 C:\Proyectos\LesleyCaicedoVMT\API\obj\Debug\net8.0\API.pdb
 C:\Proyectos\LesleyCaicedoVMT\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Proyectos\LesleyCaicedoVMT\API\obj\Debug\net8.0\ref\API.dll
+C:\APIs\LesleyCaicedoVMT\API\obj\Debug\net8.0\API.sourcelink.json

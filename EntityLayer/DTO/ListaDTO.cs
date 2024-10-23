@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace EntityLayer.DTO
 {
-    public class ProductoDTO
+    public class ListaDTO
     {
-        public int IdProd { get; set; }
-
-        public string? Nombre { get; set; }
-
         public int IdCategoria { get; set; }
+        public string NomCategoria { get; set; }
+        public List<ProductoDTO> Producto  { get; set; }
     }
 }
