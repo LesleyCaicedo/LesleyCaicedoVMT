@@ -37,7 +37,8 @@ namespace DataLayer.Repository
                     Alias = usuarioDTO.Alias,
                     Clave = usuarioDTO.Clave,
                     Correo = usuarioDTO.Correo,
-                    Cedula = usuarioDTO.Cedula
+                    Cedula = usuarioDTO.Cedula,
+                    Estado = "A"
                 };
 
                 await _context.Usuarios.AddAsync(nuevoUsuario);
@@ -60,5 +61,34 @@ namespace DataLayer.Repository
 
         }
 
+        public async Task<Response> RegistroCategoria(CategoriaDTO categoriaDTO)
+        {
+            try
+            {
+                int IdCat = idcommons.maxCat() + 1;
+
+                Categorium nuevaCatgoria = new Categorium()
+                {
+                    IdCategoria = IdCat,
+                    Nombre = categoriaDTO.Nombre,
+                    Estado = "A",
+                };
+
+
+
+
+
+
+
+            } 
+            catch (Exception ex)
+            {
+                response.Code = ResponseType.Error;
+                response.Message = "Error al registrar usuario";
+                response.Data = ex.Message;
+
+                return response;
+            }
+        }
     }
 }

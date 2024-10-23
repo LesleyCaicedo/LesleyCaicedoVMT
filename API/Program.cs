@@ -1,3 +1,4 @@
+using BusinessLayer.Services;
 using DataLayer;
 using DataLayer.Repository;
 using Microsoft.EntityFrameworkCore;
@@ -12,7 +13,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddScoped<IRegisteredServices, RegisteredServices>();
+builder.Services.AddScoped<IRegistroService, RegistroService>();
 builder.Services.AddScoped<IRegistroRepository, RegistroRepository>();
 
 builder.Services.AddDbContext<LesleyCaicedoVmtContext>(

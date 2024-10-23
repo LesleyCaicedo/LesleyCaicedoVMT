@@ -8,8 +8,6 @@ namespace EntityLayer.DTO
 {
     public class UsuarioDTO
     {
-        public int IdUser { get; set; }
-
         public string? Nombre { get; set; }
 
         public string? Alias { get; set; }

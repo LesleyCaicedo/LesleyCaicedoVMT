@@ -1,46 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\APIs\\LesleyCaicedoVMT\\",
+  "WorkspaceRootPath": "C:\\Proyectos\\LesleyCaicedoVMT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|c:\\apis\\lesleycaicedovmt\\entitylayer\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|c:\\apis\\lesleycaicedovmt\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|c:\\apis\\lesleycaicedovmt\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|c:\\apis\\lesleycaicedovmt\\api\\controllers\\pcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|solutionrelative:api\\controllers\\pcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FDCB5C6-D407-4E43-90A8-2977385DD578}|BusinessLayer\\BusinessLayer.csproj|c:\\apis\\lesleycaicedovmt\\businesslayer\\services\\iregistroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FDCB5C6-D407-4E43-90A8-2977385DD578}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\iregistroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FDCB5C6-D407-4E43-90A8-2977385DD578}|BusinessLayer\\BusinessLayer.csproj|c:\\apis\\lesleycaicedovmt\\businesslayer\\services\\registroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FDCB5C6-D407-4E43-90A8-2977385DD578}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\registroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|c:\\apis\\lesleycaicedovmt\\datalayer\\repository\\iregistrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\iregistrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|c:\\apis\\lesleycaicedovmt\\datalayer\\repository\\registrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\datalayer\\repository\\registrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\registrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|c:\\apis\\lesleycaicedovmt\\entitylayer\\mappers\\usuariomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\mappers\\usuariomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\entitylayer\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|c:\\apis\\lesleycaicedovmt\\datalayer\\commons\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\datalayer\\commons\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\commons\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\entitylayer\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|c:\\proyectos\\lesleycaicedovmt\\api\\controllers\\pcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|solutionrelative:api\\controllers\\pcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDCB5C6-D407-4E43-90A8-2977385DD578}|BusinessLayer\\BusinessLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\businesslayer\\services\\registroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDCB5C6-D407-4E43-90A8-2977385DD578}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\registroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDCB5C6-D407-4E43-90A8-2977385DD578}|BusinessLayer\\BusinessLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\businesslayer\\services\\iregistroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDCB5C6-D407-4E43-90A8-2977385DD578}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\iregistroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\datalayer\\lesleycaicedovmtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\lesleycaicedovmtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\datalayer\\repository\\iregistrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\iregistrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,71 +46,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\Commons\\Common.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Commons\\Common.cs",
+              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\Commons\\Common.cs",
+              "RelativeToolTip": "DataLayer\\Commons\\Common.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:18:40.282Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioDTO.cs",
-              "DocumentMoniker": "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\DTO\\UsuarioDTO.cs",
-              "RelativeDocumentMoniker": "EntityLayer\\DTO\\UsuarioDTO.cs",
-              "ToolTip": "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\DTO\\UsuarioDTO.cs",
-              "RelativeToolTip": "EntityLayer\\DTO\\UsuarioDTO.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:58:02.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\APIs\\LesleyCaicedoVMT\\API\\appsettings.json",
-              "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "C:\\APIs\\LesleyCaicedoVMT\\API\\appsettings.json",
-              "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T19:56:22.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\APIs\\LesleyCaicedoVMT\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\APIs\\LesleyCaicedoVMT\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "CategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\DTO\\CategoriaDTO.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\DTO\\CategoriaDTO.cs",
+              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\DTO\\CategoriaDTO.cs",
+              "RelativeToolTip": "EntityLayer\\DTO\\CategoriaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:53:50.861Z",
+              "WhenOpened": "2024-10-23T10:49:06.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PController.cs",
-              "DocumentMoniker": "C:\\APIs\\LesleyCaicedoVMT\\API\\Controllers\\PController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\PController.cs",
-              "ToolTip": "C:\\APIs\\LesleyCaicedoVMT\\API\\Controllers\\PController.cs",
-              "RelativeToolTip": "API\\Controllers\\PController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\DTO\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\DTO\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\DTO\\UsuarioDTO.cs",
+              "RelativeToolTip": "EntityLayer\\DTO\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:46:21.107Z",
+              "WhenOpened": "2024-10-23T10:39:32.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IRegistroService.cs",
-              "DocumentMoniker": "C:\\APIs\\LesleyCaicedoVMT\\BusinessLayer\\Services\\IRegistroService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\BusinessLayer\\Services\\IRegistroService.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Services\\IRegistroService.cs",
-              "ToolTip": "C:\\APIs\\LesleyCaicedoVMT\\BusinessLayer\\Services\\IRegistroService.cs",
+              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\BusinessLayer\\Services\\IRegistroService.cs",
               "RelativeToolTip": "BusinessLayer\\Services\\IRegistroService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -125,66 +108,64 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "RegistroService.cs",
-              "DocumentMoniker": "C:\\APIs\\LesleyCaicedoVMT\\BusinessLayer\\Services\\RegistroService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\BusinessLayer\\Services\\RegistroService.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Services\\RegistroService.cs",
-              "ToolTip": "C:\\APIs\\LesleyCaicedoVMT\\BusinessLayer\\Services\\RegistroService.cs",
+              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\BusinessLayer\\Services\\RegistroService.cs",
               "RelativeToolTip": "BusinessLayer\\Services\\RegistroService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T19:34:00.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsuarioMapper.cs",
-              "DocumentMoniker": "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\Mappers\\UsuarioMapper.cs",
-              "RelativeDocumentMoniker": "EntityLayer\\Mappers\\UsuarioMapper.cs",
-              "ToolTip": "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\Mappers\\UsuarioMapper.cs",
-              "RelativeToolTip": "EntityLayer\\Mappers\\UsuarioMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "RegistroRepository.cs",
+              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\Repository\\RegistroRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Repository\\RegistroRepository.cs",
+              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\Repository\\RegistroRepository.cs",
+              "RelativeToolTip": "DataLayer\\Repository\\RegistroRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:16:43.592Z",
+              "WhenOpened": "2024-10-22T17:19:44.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Common.cs",
-              "DocumentMoniker": "C:\\APIs\\LesleyCaicedoVMT\\DataLayer\\Commons\\Common.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Commons\\Common.cs",
-              "ToolTip": "C:\\APIs\\LesleyCaicedoVMT\\DataLayer\\Commons\\Common.cs",
-              "RelativeToolTip": "DataLayer\\Commons\\Common.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAwAAAATAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\API\\Controllers\\PController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\PController.cs",
+              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\API\\Controllers\\PController.cs",
+              "RelativeToolTip": "API\\Controllers\\PController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T18:44:43.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IRegistroRepository.cs",
-              "DocumentMoniker": "C:\\APIs\\LesleyCaicedoVMT\\DataLayer\\Repository\\IRegistroRepository.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Repository\\IRegistroRepository.cs",
-              "ToolTip": "C:\\APIs\\LesleyCaicedoVMT\\DataLayer\\Repository\\IRegistroRepository.cs",
-              "RelativeToolTip": "DataLayer\\Repository\\IRegistroRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T17:20:10.866Z",
+              "WhenOpened": "2024-10-22T19:46:21.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "RegistroRepository.cs",
-              "DocumentMoniker": "C:\\APIs\\LesleyCaicedoVMT\\DataLayer\\Repository\\RegistroRepository.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Repository\\RegistroRepository.cs",
-              "ToolTip": "C:\\APIs\\LesleyCaicedoVMT\\DataLayer\\Repository\\RegistroRepository.cs",
-              "RelativeToolTip": "DataLayer\\Repository\\RegistroRepository.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwBoAAAAVAAAAAAAAAA==",
+              "Title": "LesleyCaicedoVmtContext.cs",
+              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\LesleyCaicedoVmtContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\LesleyCaicedoVmtContext.cs",
+              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\LesleyCaicedoVmtContext.cs",
+              "RelativeToolTip": "DataLayer\\LesleyCaicedoVmtContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwB4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T17:19:44.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T04:15:13.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRegistroRepository.cs",
+              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\Repository\\IRegistroRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Repository\\IRegistroRepository.cs",
+              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\Repository\\IRegistroRepository.cs",
+              "RelativeToolTip": "DataLayer\\Repository\\IRegistroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:20:10.866Z"
             }
           ]
         }
