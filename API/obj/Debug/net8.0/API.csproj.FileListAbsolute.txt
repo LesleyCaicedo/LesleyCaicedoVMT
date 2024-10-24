@@ -147,6 +147,7 @@ C:\APIs\LesleyCaicedoVMT\API\obj\Debug\net8.0\refint\API.dll
 C:\APIs\LesleyCaicedoVMT\API\obj\Debug\net8.0\API.pdb
 C:\APIs\LesleyCaicedoVMT\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\APIs\LesleyCaicedoVMT\API\obj\Debug\net8.0\ref\API.dll
+C:\APIs\LesleyCaicedoVMT\API\obj\Debug\net8.0\API.sourcelink.json
 C:\Proyectos\LesleyCaicedoVMT\API\bin\Debug\net8.0\appsettings.Development.json
 C:\Proyectos\LesleyCaicedoVMT\API\bin\Debug\net8.0\appsettings.json
 C:\Proyectos\LesleyCaicedoVMT\API\bin\Debug\net8.0\API.exe
@@ -157,6 +158,7 @@ C:\Proyectos\LesleyCaicedoVMT\API\bin\Debug\net8.0\API.pdb
 C:\Proyectos\LesleyCaicedoVMT\API\bin\Debug\net8.0\Azure.Core.dll
 C:\Proyectos\LesleyCaicedoVMT\API\bin\Debug\net8.0\Azure.Identity.dll
 C:\Proyectos\LesleyCaicedoVMT\API\bin\Debug\net8.0\Humanizer.dll
+C:\Proyectos\LesleyCaicedoVMT\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Proyectos\LesleyCaicedoVMT\API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Proyectos\LesleyCaicedoVMT\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\Proyectos\LesleyCaicedoVMT\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -297,4 +299,3 @@ C:\Proyectos\LesleyCaicedoVMT\API\obj\Debug\net8.0\refint\API.dll
 C:\Proyectos\LesleyCaicedoVMT\API\obj\Debug\net8.0\API.pdb
 C:\Proyectos\LesleyCaicedoVMT\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Proyectos\LesleyCaicedoVMT\API\obj\Debug\net8.0\ref\API.dll
-C:\APIs\LesleyCaicedoVMT\API\obj\Debug\net8.0\API.sourcelink.json

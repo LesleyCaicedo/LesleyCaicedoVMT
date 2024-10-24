@@ -15,6 +15,7 @@ C:\APIs\LesleyCaicedoVMT\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
 C:\APIs\LesleyCaicedoVMT\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
 C:\APIs\LesleyCaicedoVMT\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
 C:\APIs\LesleyCaicedoVMT\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\APIs\LesleyCaicedoVMT\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
 C:\Proyectos\LesleyCaicedoVMT\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
 C:\Proyectos\LesleyCaicedoVMT\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
 C:\Proyectos\LesleyCaicedoVMT\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
@@ -33,4 +34,3 @@ C:\Proyectos\LesleyCaicedoVMT\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
 C:\Proyectos\LesleyCaicedoVMT\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
 C:\Proyectos\LesleyCaicedoVMT\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
 C:\Proyectos\LesleyCaicedoVMT\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
-C:\APIs\LesleyCaicedoVMT\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json

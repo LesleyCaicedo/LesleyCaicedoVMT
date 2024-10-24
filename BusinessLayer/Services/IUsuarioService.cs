@@ -9,11 +9,9 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer.Services
 {
-    public interface IRegistroService
+    public interface IUsuarioService
     {
         public Task<Response> RegistroUsuario(UsuarioDTO usuarioDTO);
-        public Task<Response> RegistroCategoria(CategoriaDTO categoriaDTO);
-        public Task<Response> IngresarProductos(ProductoDTO productoDTO);
-        //public Task<Response> ListaDeProducto();
+        public Task<Response> InicioSesion(LoginDTO loginDTO);
     }
 }

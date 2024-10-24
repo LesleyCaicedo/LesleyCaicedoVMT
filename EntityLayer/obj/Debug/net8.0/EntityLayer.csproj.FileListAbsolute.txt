@@ -10,6 +10,7 @@ C:\APIs\LesleyCaicedoVMT\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
 C:\APIs\LesleyCaicedoVMT\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
 C:\APIs\LesleyCaicedoVMT\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
 C:\APIs\LesleyCaicedoVMT\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
+C:\APIs\LesleyCaicedoVMT\EntityLayer\obj\Debug\net8.0\EntityLayer.sourcelink.json
 C:\Proyectos\LesleyCaicedoVMT\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
 C:\Proyectos\LesleyCaicedoVMT\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
 C:\Proyectos\LesleyCaicedoVMT\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
@@ -23,4 +24,3 @@ C:\Proyectos\LesleyCaicedoVMT\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
 C:\Proyectos\LesleyCaicedoVMT\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
 C:\Proyectos\LesleyCaicedoVMT\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
 C:\Proyectos\LesleyCaicedoVMT\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
-C:\APIs\LesleyCaicedoVMT\EntityLayer\obj\Debug\net8.0\EntityLayer.sourcelink.json

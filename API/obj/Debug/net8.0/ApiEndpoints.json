@@ -1,40 +1,8 @@
 [
   {
-    "ContainingType": "API.Controllers.PController",
-    "Method": "autentificacion",
-    "RelativePath": "api/P/autentificacion",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "login",
-        "Type": "EntityLayer.DTO.LoginDTO",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "API.Controllers.PController",
-    "Method": "IngresarProductos",
-    "RelativePath": "api/P/IngresarProductos",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "productoDTO",
-        "Type": "EntityLayer.DTO.ProductoDTO",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "API.Controllers.PController",
+    "ContainingType": "API.Controllers.CategoriaController",
     "Method": "RegistroCategoria",
-    "RelativePath": "api/P/RegistroCategoria",
+    "RelativePath": "api/Categoria/RegistroCategoria",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -48,9 +16,51 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "API.Controllers.PController",
+    "ContainingType": "API.Controllers.ProductoController",
+    "Method": "IngresarProductos",
+    "RelativePath": "api/Producto/IngresarProductos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productoDTO",
+        "Type": "EntityLayer.DTO.ProductoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.ProductoController",
+    "Method": "ListaDeProducto",
+    "RelativePath": "api/Producto/ListaDeProducto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.UsuarioController",
+    "Method": "InicioSesion",
+    "RelativePath": "api/Usuario/InicioSesion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDTO",
+        "Type": "EntityLayer.DTO.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.UsuarioController",
     "Method": "RegistroUsuario",
-    "RelativePath": "api/P/RegistroUsuario",
+    "RelativePath": "api/Usuario/RegistroUsuario",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

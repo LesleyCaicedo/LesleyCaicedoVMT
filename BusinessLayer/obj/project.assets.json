@@ -2827,19 +2827,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\viamatica\\.nuget\\packages\\": {}
+    "C:\\Users\\caice\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\APIs\\LesleyCaicedoVMT\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Proyectos\\LesleyCaicedoVMT\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "C:\\APIs\\LesleyCaicedoVMT\\BusinessLayer\\BusinessLayer.csproj",
-      "packagesPath": "C:\\Users\\viamatica\\.nuget\\packages\\",
-      "outputPath": "C:\\APIs\\LesleyCaicedoVMT\\BusinessLayer\\obj\\",
+      "projectPath": "C:\\Proyectos\\LesleyCaicedoVMT\\BusinessLayer\\BusinessLayer.csproj",
+      "packagesPath": "C:\\Users\\caice\\.nuget\\packages\\",
+      "outputPath": "C:\\Proyectos\\LesleyCaicedoVMT\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\viamatica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\caice\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2854,11 +2854,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\APIs\\LesleyCaicedoVMT\\DataLayer\\DataLayer.csproj": {
-              "projectPath": "C:\\APIs\\LesleyCaicedoVMT\\DataLayer\\DataLayer.csproj"
+            "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\DataLayer.csproj": {
+              "projectPath": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\DataLayer.csproj"
             },
-            "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }
@@ -2893,7 +2893,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

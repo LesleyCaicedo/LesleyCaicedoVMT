@@ -15,6 +15,7 @@ C:\APIs\LesleyCaicedoVMT\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
 C:\APIs\LesleyCaicedoVMT\DataLayer\obj\Debug\net8.0\DataLayer.pdb
 C:\APIs\LesleyCaicedoVMT\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
 C:\APIs\LesleyCaicedoVMT\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\APIs\LesleyCaicedoVMT\DataLayer\obj\Debug\net8.0\DataLayer.sourcelink.json
 C:\Proyectos\LesleyCaicedoVMT\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
 C:\Proyectos\LesleyCaicedoVMT\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
 C:\Proyectos\LesleyCaicedoVMT\DataLayer\bin\Debug\net8.0\DataLayer.dll
@@ -33,4 +34,3 @@ C:\Proyectos\LesleyCaicedoVMT\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
 C:\Proyectos\LesleyCaicedoVMT\DataLayer\obj\Debug\net8.0\DataLayer.pdb
 C:\Proyectos\LesleyCaicedoVMT\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
 C:\Proyectos\LesleyCaicedoVMT\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
-C:\APIs\LesleyCaicedoVMT\DataLayer\obj\Debug\net8.0\DataLayer.sourcelink.json

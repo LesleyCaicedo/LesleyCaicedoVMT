@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 
 namespace DataLayer.Repository
 {
-    public interface IRegistroRepository
+    public interface IUsuarioRepository
     {
         public Task<Response> RegistroUsuario(UsuarioDTO usuarioDTO);
-        public Task<Response> RegistroCategoria(CategoriaDTO categoriaDTO);
-        public Task<Response> IngresarProductos(ProductoDTO productoDTO);
+ 
+        public Task<Response> InicioSesion(LoginDTO loginDTO);
     }
 }
