@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7ubV53kmNDw=",
+  "dgSpecHash": "7KWpMlr3A+w=",
   "success": true,
-  "projectFilePath": "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\caice\\.nuget\\packages\\riok.mapperly\\4.0.0\\riok.mapperly.4.0.0.nupkg.sha512"
+    "C:\\Users\\viamatica\\.nuget\\packages\\riok.mapperly\\4.0.0\\riok.mapperly.4.0.0.nupkg.sha512"
   ],
   "logs": []
 }

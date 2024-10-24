@@ -1,65 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Proyectos\\LesleyCaicedoVMT\\",
+  "WorkspaceRootPath": "C:\\APIs\\LesleyCaicedoVMT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\datalayer\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\datalayer\\repository\\carritorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|c:\\apis\\lesleycaicedovmt\\datalayer\\repository\\carritorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\carritorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\entitylayer\\dto\\prodcarritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|c:\\apis\\lesleycaicedovmt\\entitylayer\\mappers\\usuariomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\mappers\\usuariomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDCB5C6-D407-4E43-90A8-2977385DD578}|BusinessLayer\\BusinessLayer.csproj|c:\\apis\\lesleycaicedovmt\\businesslayer\\services\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDCB5C6-D407-4E43-90A8-2977385DD578}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|c:\\apis\\lesleycaicedovmt\\api\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|solutionrelative:api\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|c:\\apis\\lesleycaicedovmt\\entitylayer\\dto\\prodcarritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\dto\\prodcarritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\entitylayer\\dto\\carritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\dto\\carritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\caice\\AppData\\Local\\SourceServer\\657268830ad33dec5fa69435843dcb36b0d6da37ce8aad63eaee559a34089767\\DataLayer\\Repository\\UsuarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\datalayer\\repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\entitylayer\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|c:\\apis\\lesleycaicedovmt\\entitylayer\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\entitylayer\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19FC5888-02D0-4F4C-9BB7-0BFC7BEEA8A5}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|c:\\proyectos\\lesleycaicedovmt\\api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|solutionrelative:api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\datalayer\\lesleycaicedovmtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\lesleycaicedovmtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\datalayer\\repository\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|c:\\proyectos\\lesleycaicedovmt\\datalayer\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4606999B-76BC-4877-AAC1-25F589828B42}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|c:\\proyectos\\lesleycaicedovmt\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|c:\\apis\\lesleycaicedovmt\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|c:\\proyectos\\lesleycaicedovmt\\api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|solutionrelative:api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|c:\\proyectos\\lesleycaicedovmt\\api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D72D205-161D-4C9B-B584-8627DFF12E24}|API\\API.csproj|solutionrelative:api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -77,193 +46,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProdCarritoDTO.cs",
-              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\DTO\\ProdCarritoDTO.cs",
-              "RelativeDocumentMoniker": "EntityLayer\\DTO\\ProdCarritoDTO.cs",
-              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\DTO\\ProdCarritoDTO.cs",
-              "RelativeToolTip": "EntityLayer\\DTO\\ProdCarritoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UsuarioMapper.cs",
+              "DocumentMoniker": "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\Mappers\\UsuarioMapper.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Mappers\\UsuarioMapper.cs",
+              "ToolTip": "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\Mappers\\UsuarioMapper.cs",
+              "RelativeToolTip": "EntityLayer\\Mappers\\UsuarioMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:29:51.059Z",
+              "WhenOpened": "2024-10-24T18:28:46.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "CarritoService.cs",
+              "DocumentMoniker": "C:\\APIs\\LesleyCaicedoVMT\\BusinessLayer\\Services\\CarritoService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\CarritoService.cs",
+              "ToolTip": "C:\\APIs\\LesleyCaicedoVMT\\BusinessLayer\\Services\\CarritoService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\CarritoService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAEwB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:15:38.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarritoController.cs",
+              "DocumentMoniker": "C:\\APIs\\LesleyCaicedoVMT\\API\\Controllers\\CarritoController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CarritoController.cs",
+              "ToolTip": "C:\\APIs\\LesleyCaicedoVMT\\API\\Controllers\\CarritoController.cs",
+              "RelativeToolTip": "API\\Controllers\\CarritoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:35:02.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CarritoRepository.cs",
-              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\Repository\\CarritoRepository.cs",
+              "DocumentMoniker": "C:\\APIs\\LesleyCaicedoVMT\\DataLayer\\Repository\\CarritoRepository.cs",
               "RelativeDocumentMoniker": "DataLayer\\Repository\\CarritoRepository.cs",
-              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\Repository\\CarritoRepository.cs",
+              "ToolTip": "C:\\APIs\\LesleyCaicedoVMT\\DataLayer\\Repository\\CarritoRepository.cs",
               "RelativeToolTip": "DataLayer\\Repository\\CarritoRepository.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAApwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwGUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T11:21:28.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CarritoDTO.cs",
-              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\DTO\\CarritoDTO.cs",
-              "RelativeDocumentMoniker": "EntityLayer\\DTO\\CarritoDTO.cs",
-              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\DTO\\CarritoDTO.cs",
-              "RelativeToolTip": "EntityLayer\\DTO\\CarritoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:20:48.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\caice\\AppData\\Local\\SourceServer\\657268830ad33dec5fa69435843dcb36b0d6da37ce8aad63eaee559a34089767\\DataLayer\\Repository\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\Users\\caice\\AppData\\Local\\SourceServer\\657268830ad33dec5fa69435843dcb36b0d6da37ce8aad63eaee559a34089767\\DataLayer\\Repository\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\caice\\AppData\\Local\\SourceServer\\657268830ad33dec5fa69435843dcb36b0d6da37ce8aad63eaee559a34089767\\DataLayer\\Repository\\UsuarioRepository.cs [Solo lectura]",
-              "RelativeToolTip": "..\\..\\Users\\caice\\AppData\\Local\\SourceServer\\657268830ad33dec5fa69435843dcb36b0d6da37ce8aad63eaee559a34089767\\DataLayer\\Repository\\UsuarioRepository.cs [Solo lectura]",
-              "ViewState": "AgIAABMAAAAAAAAAAAAjwDAAAAArAAAAAQAAAA==",
+              "Title": "ProdCarritoDTO.cs",
+              "DocumentMoniker": "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\DTO\\ProdCarritoDTO.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\DTO\\ProdCarritoDTO.cs",
+              "ToolTip": "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\DTO\\ProdCarritoDTO.cs",
+              "RelativeToolTip": "EntityLayer\\DTO\\ProdCarritoDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:18:39.545Z",
-              "EditorCaption": " [Solo lectura]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\Repository\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Repository\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\Repository\\UsuarioRepository.cs",
-              "RelativeToolTip": "DataLayer\\Repository\\UsuarioRepository.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAAAEUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:46:04.575Z",
+              "WhenOpened": "2024-10-24T11:29:51.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ProductoDTO.cs",
-              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\DTO\\ProductoDTO.cs",
+              "DocumentMoniker": "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\DTO\\ProductoDTO.cs",
               "RelativeDocumentMoniker": "EntityLayer\\DTO\\ProductoDTO.cs",
-              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\DTO\\ProductoDTO.cs",
+              "ToolTip": "C:\\APIs\\LesleyCaicedoVMT\\EntityLayer\\DTO\\ProductoDTO.cs",
               "RelativeToolTip": "EntityLayer\\DTO\\ProductoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T10:40:35.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "EntityLayer\\Models\\Producto.cs",
-              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\EntityLayer\\Models\\Producto.cs",
-              "RelativeToolTip": "EntityLayer\\Models\\Producto.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:38:14.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LesleyCaicedoVmtContext.cs",
-              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\LesleyCaicedoVmtContext.cs",
-              "RelativeDocumentMoniker": "DataLayer\\LesleyCaicedoVmtContext.cs",
-              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\LesleyCaicedoVmtContext.cs",
-              "RelativeToolTip": "DataLayer\\LesleyCaicedoVmtContext.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAApwGUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:24:38.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductoRepository.cs",
-              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\Repository\\ProductoRepository.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Repository\\ProductoRepository.cs",
-              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\Repository\\ProductoRepository.cs",
-              "RelativeToolTip": "DataLayer\\Repository\\ProductoRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCYAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:30:27.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoriaRepository.cs",
-              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\Repository\\CategoriaRepository.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Repository\\CategoriaRepository.cs",
-              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\Repository\\CategoriaRepository.cs",
-              "RelativeToolTip": "DataLayer\\Repository\\CategoriaRepository.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:30:08.632Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\API\\Program.cs",
+              "DocumentMoniker": "C:\\APIs\\LesleyCaicedoVMT\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\API\\Program.cs",
+              "ToolTip": "C:\\APIs\\LesleyCaicedoVMT\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:23:11.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\API\\Controllers\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\API\\Controllers\\CategoriaController.cs",
-              "RelativeToolTip": "API\\Controllers\\CategoriaController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:15:58.455Z",
+              "WhenOpened": "2024-10-24T04:23:11.544Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IProductoRepository.cs",
-              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\Repository\\IProductoRepository.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Repository\\IProductoRepository.cs",
-              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\DataLayer\\Repository\\IProductoRepository.cs",
-              "RelativeToolTip": "DataLayer\\Repository\\IProductoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:30:24.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\API\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\API\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "API\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBIAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:01:01.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Proyectos\\LesleyCaicedoVMT\\API\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Proyectos\\LesleyCaicedoVMT\\API\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "API\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T01:19:00.583Z"
             }
           ]
         }

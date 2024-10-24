@@ -1,5 +1,42 @@
 [
   {
+    "ContainingType": "API.Controllers.CarritoController",
+    "Method": "CarritoDeCompras",
+    "RelativePath": "api/Carrito/CarritoDeCompras",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "prodCarritoDTO",
+        "Type": "EntityLayer.DTO.ProdCarritoDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "IdUser",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.CarritoController",
+    "Method": "Factura",
+    "RelativePath": "api/Carrito/Factura",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "API.Controllers.CategoriaController",
     "Method": "RegistroCategoria",
     "RelativePath": "api/Categoria/RegistroCategoria",
