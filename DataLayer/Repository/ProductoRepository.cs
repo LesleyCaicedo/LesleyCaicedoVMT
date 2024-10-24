@@ -35,6 +35,8 @@ namespace DataLayer.Repository
                     Nombre = productoDTO.Nombre,
                     FkIdCategoria = productoDTO.IdCategoria,
                     Estado = "A",
+                    Stock = productoDTO.Stock,
+                    Precio = productoDTO.Precio,
                 };
 
                 await _context.Productos.AddAsync(nuevoProducto);

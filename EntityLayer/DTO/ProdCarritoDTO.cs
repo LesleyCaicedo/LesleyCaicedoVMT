@@ -8,12 +8,8 @@ namespace EntityLayer.DTO
 {
     public class ProdCarritoDTO
     {
-        public int IdProdCar { get; set; }
+        public List<int> IdProducto { get; set; }
 
-        public string? Estado { get; set; }
-
-        public int FkIdProd { get; set; }
-
-        public int FkIdCarrito { get; set; }
+        public int IdCarrito { get; set; }
     }
 }

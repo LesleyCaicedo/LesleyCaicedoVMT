@@ -43,7 +43,18 @@ namespace DataLayer.Repository
 
                 await _context.Usuarios.AddAsync(nuevoUsuario);
 
+                int idCarrito = idcommons.maxCarrito() + 1;
+
+                Carrito nuevocarrito = new Carrito() 
+                {
+                    IdCarrito = idCarrito,
+                    Estado = nuevoUsuario.Estado,
+                    FkIdUser = nuevoUsuario.IdUser,
+                };
+
+                await _context.Carritos.AddAsync(nuevocarrito);
                 await _context.SaveChangesAsync();
+
                 response.Code = ResponseType.Success;
                 response.Message = "Usuario Registrado";
                 response.Data = usuarioDTO;

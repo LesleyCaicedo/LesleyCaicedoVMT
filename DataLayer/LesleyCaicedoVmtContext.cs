@@ -99,6 +99,9 @@ public partial class LesleyCaicedoVmtContext : DbContext
                 .IsFixedLength();
             entity.Property(e => e.FkIdCategoria).HasColumnName("FK_IdCategoria");
             entity.Property(e => e.Nombre).HasMaxLength(50);
+            entity.Property(e => e.Precio)
+                .HasColumnType("decimal(10, 2)")
+                .HasColumnName("precio");
 
             entity.HasOne(d => d.FkIdCategoriaNavigation).WithMany(p => p.Productos)
                 .HasForeignKey(d => d.FkIdCategoria)
