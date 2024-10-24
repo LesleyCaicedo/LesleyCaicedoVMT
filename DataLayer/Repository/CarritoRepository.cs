@@ -95,7 +95,8 @@ namespace DataLayer.Repository
         {
             try
             {
-                UsuarioDTO usuario = _usuarioMapper.UsuarioToUsuarioDTO(await _context.Usuarios.FindAsync(idUsuario));
+                Usuario usu = await _context.Usuarios.FindAsync(idUsuario);
+                UsuarioDTO usuario = _usuarioMapper.UsuarioToUsuarioDTO(usu);
                 response.Code = ResponseType.Success;
                 response.Data = usuario;
 
